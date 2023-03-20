@@ -1,0 +1,41 @@
+2023-03-20 11:45:58,054 - main.model - INFO - Metaclass new for Playlists
+2023-03-20 11:45:58,055 - main.model - INFO - Metaclass init for Playlists
+2023-03-20 11:45:58,055 - main.model - INFO - Metaclass new for Genres
+2023-03-20 11:45:58,055 - main.model - INFO - Metaclass init for Genres
+2023-03-20 11:45:58,056 - main - INFO - Playlists.__dict__: {'__module__': '__main__', '__table__': 'playlists', '__mappings__': {'PlaylistId': <model.IntegerField object at 0x7f08bc7c2560>, 'Name': <model.StringField object at 0x7f08bc7c2620>}, '__primary_key__': 'PlaylistId', '__fields__': ['Name'], '__columns__': ['Name TEXT'], '__placeholders__': ['?'], '__doc__': None, 'objects': <manager.Manager object at 0x7f08bc7c2710>}
+2023-03-20 11:45:58,056 - main.model - INFO - Model init
+2023-03-20 11:45:58,057 - main.model - INFO - *argv: {'PlaylistId': 1, 'Name': 'Music'}
+2023-03-20 11:45:58,057 - main.model - INFO - Model init
+2023-03-20 11:45:58,057 - main.model - INFO - *argv: {'PlaylistId': 2, 'Name': 'Movies'}
+2023-03-20 11:45:58,057 - main.model - INFO - Model init
+2023-03-20 11:45:58,057 - main.model - INFO - *argv: {'PlaylistId': 3, 'Name': 'TV Shows'}
+2023-03-20 11:45:58,057 - main.model - INFO - Model init
+2023-03-20 11:45:58,058 - main.model - INFO - *argv: {'PlaylistId': 4, 'Name': 'Audiobooks'}
+2023-03-20 11:45:58,058 - main.model - INFO - Model init
+2023-03-20 11:45:58,058 - main.model - INFO - *argv: {'PlaylistId': 5, 'Name': '90’s Music'}
+2023-03-20 11:45:58,058 - main.model - INFO - Model init
+2023-03-20 11:45:58,058 - main.model - INFO - *argv: {'PlaylistId': 6, 'Name': 'Audiobooks'}
+2023-03-20 11:45:58,058 - main.model - INFO - Model init
+2023-03-20 11:45:58,059 - main.model - INFO - *argv: {'PlaylistId': 7, 'Name': 'Movies'}
+2023-03-20 11:45:58,059 - main.model - INFO - Model init
+2023-03-20 11:45:58,059 - main.model - INFO - *argv: {'PlaylistId': 8, 'Name': 'Music'}
+2023-03-20 11:45:58,059 - main.model - INFO - Model init
+2023-03-20 11:45:58,059 - main.model - INFO - *argv: {'PlaylistId': 9, 'Name': 'Music Videos'}
+2023-03-20 11:45:58,059 - main.model - INFO - Model init
+2023-03-20 11:45:58,059 - main.model - INFO - *argv: {'PlaylistId': 10, 'Name': 'TV Shows'}
+2023-03-20 11:45:58,059 - main.model - INFO - Model init
+2023-03-20 11:45:58,060 - main.model - INFO - *argv: {'PlaylistId': 11, 'Name': 'Brazilian Music'}
+2023-03-20 11:45:58,060 - main.model - INFO - Model init
+2023-03-20 11:45:58,060 - main.model - INFO - *argv: {'PlaylistId': 12, 'Name': 'Classical'}
+2023-03-20 11:45:58,060 - main.model - INFO - Model init
+2023-03-20 11:45:58,060 - main.model - INFO - *argv: {'PlaylistId': 13, 'Name': 'Classical 101 - Deep Cuts'}
+2023-03-20 11:45:58,060 - main.model - INFO - Model init
+2023-03-20 11:45:58,060 - main.model - INFO - *argv: {'PlaylistId': 14, 'Name': 'Classical 101 - Next Steps'}
+2023-03-20 11:45:58,061 - main.model - INFO - Model init
+2023-03-20 11:45:58,061 - main.model - INFO - *argv: {'PlaylistId': 15, 'Name': 'Classical 101 - The Basics'}
+2023-03-20 11:45:58,061 - main.model - INFO - Model init
+2023-03-20 11:45:58,061 - main.model - INFO - *argv: {'PlaylistId': 16, 'Name': 'Grunge'}
+2023-03-20 11:45:58,061 - main.model - INFO - Model init
+2023-03-20 11:45:58,061 - main.model - INFO - *argv: {'PlaylistId': 17, 'Name': 'Heavy Metal Classic'}
+2023-03-20 11:45:58,062 - main.model - INFO - Model init
+2023-03-20 11:45:58,062 - main.model - INFO - *argv: {'PlaylistId': 18, 'Name': 'On-The-Go 1'}
